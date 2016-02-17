@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jekyll-sitemap (0.10.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-sitemap
+
+BUNDLED WITH
+   1.11.2
