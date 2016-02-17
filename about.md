@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name is Igor Belo and I’m a software developer living in Brazil and this is my blog.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am on this since I was 15-year-old, building an website every week. I’m interested in Ruby, Python, Elixir, Elasticsearch and Postgres.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I hope my articles serve to me as knowledge documentation and help some devs somehow.
