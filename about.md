@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Igor Belo and I’m a software developer living in Brazil and this is my blog.
+My name is Igor Belo, I’m a software developer living in Brazil and this is my blog.
 
 I am on this since I was 15-year-old, building an website every week. I’m interested in Ruby, Python, Elixir, Elasticsearch and Postgres.
 
