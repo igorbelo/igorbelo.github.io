@@ -118,6 +118,6 @@ Processes are huge and some of their concepts and abstractions such as agents an
 ## Conclusion
 I've just introduced some of Elixir concepts and implementations, there's a lot of things you should know and the [Getting Started Guide](http://elixir-lang.org/getting-started) is a good start.
 
-Elixir is a very new language but I'm really exciting about how its ecosystem is being evolved.
+Elixir is a very new language but I'm really excited about how its ecosystem is being evolved.
 
 In the next post(s) I'll talk more about processes in Elixir.
