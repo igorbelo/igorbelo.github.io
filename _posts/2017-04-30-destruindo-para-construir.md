@@ -17,8 +17,13 @@ Assim, o termo Ágil foi aplicado a essa coleção de metodologias que acabaram 
 
 ## Conceitos-chave do Desenvolvimento Ágil
 ### Estória do Usuário
-### Daily Meeting
-### Desenvolvimento Incremental
-### Desenvolvimento Iterativo
+Juntamente com o Product Owner ou Cliente a equipe divide o trabalho a ser feito em estórias. Cada estória de usuário deve agregar valor ao produto.
 ### Equipe
+Uma equipe no contexto Ágil significa um grupo de pessoas responsáveis por um projeto ou demanda.
+### Daily Meeting
+Diariamente os membros da equipe deixam todos a par dos avanços e quaisquer obstáculos que estejam atrapalhando o andamento do desenvolvimento.
 ### Retrospectiva
+Ao final de etapas importantes no desenvolvimento do projeto a equipe se reúne para discutir eventos importantes ocorridos no período (coisas boas, ruins, lições aprendidas).
+
+## Para onde isso vai?
+...
