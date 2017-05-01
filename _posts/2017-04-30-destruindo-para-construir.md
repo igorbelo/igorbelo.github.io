@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desconstruindo para construir
+title: Destruindo para construir
 ---
 Durante muitos anos os métodos de desenvolvimento de software que prevaleceram no século passado foram os muitos criados pela Engenharia. Em termos de processos, muitas etapas e procedimentos da engenharia e do desenvolvimento de software se assemelham. Porém a metodologia da engenharia traz consigo toda a burocracia e generalização desta disciplina, o que de certa forma acaba engessando o processo de desenvolvimento de software, que na ampla maioria das vezes está contido em um contexto volátil, totalmente suscetível a mudanças. É mais fácil modificar requisitos de um software e regras do negócio do que o projeto de um edifício já em construção.
 
