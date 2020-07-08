@@ -93,7 +93,7 @@ a.push(1) # [1]
 a # [1]
 {% endhighlight %}
 
-The main reason for keeping state is concurrency. Imagine a lot of processes and flows operating over `a` and changing its content. We would probably produce wrong results (due race condition) if we ignored sync the access to `a`.
+The main reason for keeping state is concurrency. Imagine a lot of processes and flows operating over `a` and changing its content. We would probably produce wrong results, due race condition, if we ignored sync the access to `a`.
 
 ## Pipe Operator |>
 The pipe operator in Elixir provides data transformation flow in a more readable way. It takes the result of the left side and pass as the first argument to the function on right side.
