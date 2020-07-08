@@ -1,7 +1,7 @@
 _site
 .sass-cache
-.jekyll-metadata
-.DS_STORE
-*~
 .ruby-gemset
 .ruby-version
+.jekyll-cache
+.jekyll-metadata
+vendor
